@@ -1,4 +1,4 @@
-<h2>Hey, I'm ZACHARIE LAWSON, WELCOME TO MY GITHUB PAGE</h2>
+<h2>Hey, I'm MALEK GATOUFI, WELCOME TO MY GITHUB PAGE</h2>
 </br>
 </br>
 <img align='right' src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif" width="200">
@@ -8,7 +8,7 @@
 - 🔭 I’ve been working on **As a Python developper at [Oligos](https://oligos.fr/)**
 - 🎫 Currently studying at [@Epitech](https://www.epitech.eu/) as a 2nd Year Student
 - 💻 I'm learning C, C++, Python, Haskell
-- 🎮 Activites and Hobbies **Video Games, Anime, Rock climbing, I may be playin beat saber right now**
+- 🎮 Activites and Hobbies **Video Games, Anime, Guitare**
 
 
 </br>
@@ -16,7 +16,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/zacharie-lawson-81357b209/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/zacharie-lawson-81357b209/" height="30" width="40" /></a><a href="https://discord.gg/users/321204705424310274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="321204705424310274" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/malek-gatoufi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/malek-gatoufi/" height="30" width="40" /></a><a href="https://discord.gg/users/321204705424310274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="321204705424310274" height="30" width="40" /></a>
 
 </p>
 <h3 align="center">Languages and Tools:</h3>
