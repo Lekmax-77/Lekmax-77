@@ -1,7 +1,7 @@
 <h2>Hey, I'm MALEK GATOUFI, WELCOME TO MY GITHUB PAGE</h2>
 </br>
 </br>
-<img align='right' src="https://tenor.com/view/racconrolling-gif-24792777" width="200">
+<img align='right' src="https://c.tenor.com/OjoZsi_BsCwAAAAd/racconrolling.gif" width="200">
 
 **About me :**
 
